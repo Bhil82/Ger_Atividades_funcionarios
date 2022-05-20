@@ -9,7 +9,7 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>Treinamento PHP</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
     <main class="principal">
