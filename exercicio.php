@@ -9,7 +9,7 @@
 </head>
 <body class="exercicio">
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>Treinamento PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
     <nav class="navegacao">      
