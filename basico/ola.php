@@ -3,6 +3,8 @@
 <?php
 
 echo'olá ';
-echo'Mundo!'
+echo"Mundo!"
 
 ?>
+<?php
+phpinfo();
