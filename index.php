@@ -28,13 +28,18 @@
                             integração html.
                         </a>
                     </li>
+                    <li>
+                            <a href="exercicio.php?dir=basico&file=css">
+                            integração CSS
+                        </a>
+                    </li>
                     </ul>
                 </div>
             </nav>
         </div>
     </main>
     <footer class="rodape">
-        Ubiratan © <?= date('Y'); ?>
+        Ubiratan <?= date('Y'); ?>©
     </footer>
 </body>
 </html>

@@ -21,7 +21,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Ubiratan <?= date('Y'); ?>
+    Ubiratan  <?= date('Y'); ?>©
     </footer>
 </body>
 </html>
