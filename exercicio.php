@@ -12,15 +12,12 @@
         <h1>Treinamento PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
-    <nav class="navegacao">      
-
-    <a href="#" class="verde">Sem formatação</a>
+    <nav class="navegacao">    
+   <a href="#" class="verde">Sem formatação</a>
         <a href="index.php" class="vermelho">Voltar</a>
-
     </nav>
     <main class="principal">
         <div class="conteudo">
-            
         <?php
         
     /*  include($_GET['dir'] . "/" . $_GET['file'] . ".php");
